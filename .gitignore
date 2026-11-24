@@ -1,0 +1,15 @@
+# Captured portal traffic, reports and browser snapshots must stay local.
+*.har
+*.csv
+*.xlsx
+*.xls
+snapshot*.html
+*.zip
+
+# Credentials and machine-specific files
+.env
+.env.*
+auth*.json
+*cookies*.json
+node_modules/
+.DS_Store
