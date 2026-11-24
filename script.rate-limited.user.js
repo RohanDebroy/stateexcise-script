@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         [LATEST] Rate-limited Consolidated Report to CSV and Excel [StateExcise Assam]
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Export StateExcise Assam reports to CSV or Excel with payment details, paced requests and rate-limit retries.
 // @author       Rohan Debroy
+// @updateURL    https://raw.githubusercontent.com/RohanDebroy/stateexcise-script/main/script.rate-limited.user.js
 // @downloadURL  https://raw.githubusercontent.com/RohanDebroy/stateexcise-script/main/script.rate-limited.user.js
 // @homepageURL  https://github.com/RohanDebroy/stateexcise-script
 // @supportURL   https://github.com/RohanDebroy/stateexcise-script/issues
